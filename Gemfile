@@ -1,6 +1,7 @@
 source 'https://rubygems.org'
 ruby '2.1.2'
 
+gem 'awesome_print'
 gem 'bootstrap-sass'
 gem 'coffee-rails'
 gem 'rails'
